@@ -1,0 +1,11 @@
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\bin\Debug\netcoreapp3.1\27.01.20trying.exe
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\bin\Debug\netcoreapp3.1\27.01.20trying.deps.json
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\bin\Debug\netcoreapp3.1\27.01.20trying.runtimeconfig.json
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\bin\Debug\netcoreapp3.1\27.01.20trying.runtimeconfig.dev.json
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\bin\Debug\netcoreapp3.1\27.01.20trying.dll
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\bin\Debug\netcoreapp3.1\27.01.20trying.pdb
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\obj\Debug\netcoreapp3.1\27.01.20trying.csprojAssemblyReference.cache
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\obj\Debug\netcoreapp3.1\27.01.20trying.AssemblyInfoInputs.cache
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\obj\Debug\netcoreapp3.1\27.01.20trying.AssemblyInfo.cs
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\obj\Debug\netcoreapp3.1\27.01.20trying.dll
+C:\Users\Seljan\Desktop\c#\27.01.20trying\27.01.20trying\obj\Debug\netcoreapp3.1\27.01.20trying.pdb
